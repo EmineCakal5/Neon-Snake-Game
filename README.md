@@ -44,7 +44,7 @@ gcloud auth application-default login
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/EmineCakal5/Neon-Snake.git
+git clone https://github.com/EmineCakal5/Neon-Snake-Game.git
 cd neon-snake
 ```
 
